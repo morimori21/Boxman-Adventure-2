@@ -2,7 +2,7 @@ Boxman Adventure I made with Scratch, i make a sequel to the old game i made sim
 
 Genre: Platform
 
-SCRACTH: https://scratch.mit.edu/projects/1242678911/
+SCRATCH: https://scratch.mit.edu/projects/1242678911/
 
 
 
